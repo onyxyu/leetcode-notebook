@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+*.iml
+java/target/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+python/dist/
+go/bin/
+coverage.out
